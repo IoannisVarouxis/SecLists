@@ -1243,6 +1243,7 @@ packages/data/license
 .changeset/lazy-tables-lie.md
 .changeset/chilled-adults-arrive.md
 .changeset/silly-poems-brush.md
+.changeset/lemon-ghosts-own.md
 .changeset/beige-toes-visit.md
 .changeset/fast-bags-joke.md
 .changeset/six-impalas-complain.md
@@ -1264,6 +1265,7 @@ packages/data/license
 .changeset/angry-walls-wash.md
 .changeset/heavy-sloths-serve.md
 .changeset/strange-eggs-admire.md
+.changeset/rotten-goats-clap.md
 .changeset/long-mayflies-try.md
 .changeset/loud-crews-fix.md
 .changeset/orange-penguins-kneel.md

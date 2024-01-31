@@ -70,6 +70,7 @@ tests/integration/Espo/Core/FulltextIndex/CheckCreatedIndexTest.php
 tests/integration/Espo/Core/Job/JobTest.php
 tests/integration/Espo/Actions/ActionTest.php
 tests/integration/Espo/Actions/MassActionTest.php
+tests/integration/Espo/Password/RecoveryTest.php
 tests/integration/Espo/ORM/QueryTest.php
 tests/integration/Espo/ORM/EntityManagerTest.php
 tests/integration/Espo/ORM/RepositoryTest.php
@@ -4356,6 +4357,7 @@ application/Espo/Tools/UserSecurity/TwoFactor/SmsService.php
 application/Espo/Tools/UserSecurity/Password/Generator.php
 application/Espo/Tools/UserSecurity/Password/RecoveryService.php
 application/Espo/Tools/UserSecurity/Password/Sender.php
+application/Espo/Tools/UserSecurity/Password/Recovery/UrlValidator.php
 application/Espo/Tools/UserSecurity/Password/Service.php
 application/Espo/Tools/UserSecurity/Password/Jobs/RemoveRecoveryRequest.php
 application/Espo/Tools/UserSecurity/Password/Jobs/SendAccessInfo.php
@@ -7131,12 +7133,14 @@ application/Espo/Core/Select/Where/CheckerFactory.php
 application/Espo/Core/Select/Where/DateTimeItemTransformer.php
 application/Espo/Core/Select/Where/ConverterFactory.php
 application/Espo/Core/Select/Where/Params.php
+application/Espo/Core/Select/Where/DefaultDateTimeItemTransformer.php
 application/Espo/Core/Select/Where/Scanner.php
 application/Espo/Core/Select/Where/Item.php
 application/Espo/Core/Select/Where/ItemConverter.php
 application/Espo/Core/Select/Where/Item/Type.php
 application/Espo/Core/Select/Where/Item/Data.php
 application/Espo/Core/Select/Where/Item/Data/DateTime.php
+application/Espo/Core/Select/Where/Item/Data/Date.php
 application/Espo/Core/Select/Where/Checker.php
 application/Espo/Core/Select/Where/Converter.php
 application/Espo/Core/Select/Where/ItemBuilder.php

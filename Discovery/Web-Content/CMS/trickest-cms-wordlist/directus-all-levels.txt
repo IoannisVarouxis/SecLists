@@ -6240,6 +6240,8 @@ lazy-tables-lie.md
 chilled-adults-arrive.md
 .changeset/silly-poems-brush.md
 silly-poems-brush.md
+.changeset/lemon-ghosts-own.md
+lemon-ghosts-own.md
 .changeset/beige-toes-visit.md
 beige-toes-visit.md
 .changeset/fast-bags-joke.md
@@ -6282,6 +6284,8 @@ angry-walls-wash.md
 heavy-sloths-serve.md
 .changeset/strange-eggs-admire.md
 strange-eggs-admire.md
+.changeset/rotten-goats-clap.md
+rotten-goats-clap.md
 .changeset/long-mayflies-try.md
 long-mayflies-try.md
 .changeset/loud-crews-fix.md
